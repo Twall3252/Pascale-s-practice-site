@@ -1,0 +1,9 @@
+node_modules
+.expo
+.expo-shared
+.env
+*.log
+dist
+build
+*~
+*.swp
